@@ -15,9 +15,9 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-import com.app.retrofittutorial.a.AllCategories;
-import com.app.retrofittutorial.a.Category;
-import com.app.retrofittutorial.b.RegisterResponse;
+import com.app.retrofittutorial.categories.AllCategories;
+import com.app.retrofittutorial.categories.Category;
+import com.app.retrofittutorial.register.RegisterResponse;
 import com.google.gson.Gson;
 
 import org.json.JSONArray;

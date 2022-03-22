@@ -1,5 +1,5 @@
 
-package com.app.retrofittutorial.a;
+package com.app.retrofittutorial.register;
 
 import java.io.Serializable;
 import javax.annotation.Generated;
@@ -7,7 +7,7 @@ import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 @Generated("jsonschema2pojo")
-public class AllCategories implements Serializable
+public class RegisterResponse implements Serializable
 {
 
     @SerializedName("message")
@@ -16,7 +16,7 @@ public class AllCategories implements Serializable
     @SerializedName("data")
     @Expose
     private Data data;
-    private final static long serialVersionUID = -5914029478388490072L;
+    private final static long serialVersionUID = -7718390150703873406L;
 
     public String getMessage() {
         return message;

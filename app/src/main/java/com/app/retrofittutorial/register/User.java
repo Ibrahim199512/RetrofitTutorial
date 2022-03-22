@@ -1,5 +1,5 @@
 
-package com.app.retrofittutorial.b;
+package com.app.retrofittutorial.register;
 
 import java.io.Serializable;
 import javax.annotation.Generated;

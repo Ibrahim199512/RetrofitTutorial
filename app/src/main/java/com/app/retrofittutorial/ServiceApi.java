@@ -1,7 +1,7 @@
 package com.app.retrofittutorial;
 
-import com.app.retrofittutorial.a.AllCategories;
-import com.app.retrofittutorial.b.RegisterResponse;
+import com.app.retrofittutorial.categories.AllCategories;
+import com.app.retrofittutorial.register.RegisterResponse;
 
 import okhttp3.MultipartBody;
 import okhttp3.RequestBody;

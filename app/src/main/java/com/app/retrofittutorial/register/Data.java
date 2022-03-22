@@ -1,10 +1,9 @@
 
-package com.app.retrofittutorial.b;
+package com.app.retrofittutorial.register;
 
 import java.io.Serializable;
 import javax.annotation.Generated;
 
-import com.app.retrofittutorial.b.User;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
